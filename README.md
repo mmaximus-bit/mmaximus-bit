@@ -6,12 +6,12 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=debian" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/>
 </p>
 
 ---
