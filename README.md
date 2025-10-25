@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de uma **plataforma/rede social** para o ramo estudantil de engenharia (IEEE) da minha faculdade.
 - 🌱 Estou focado em aprofundar meus conhecimentos em JavaScript, especialmente nos frameworks **NestJS** (Back-end) e **NextJS** (Front-end).
-- 💬 Pergunte-me sobre: `C`, `JavaScript`, `MySQL`, `Node.js` e `Linux`.
+- 💬 Pergunte-me sobre: `C`, `JavaScript`, `Node.js` e `Linux`.
 
 ---
 
