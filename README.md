@@ -9,8 +9,8 @@
 </p>
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de uma **plataforma/rede social** para o ramo estudantil de engenharia (IEEE) da minha faculdade.
-- 🌱 Estou focado em aprofundar meus conhecimentos em JavaScript, especialmente nos frameworks **NestJS** (Back-end) e **NextJS** (Front-end).
-- 💬 Pergunte-me sobre: `C`, `JavaScript`, `Node.js` e `Linux`.
+- 🌱 Estou focado em aprofundar meus conhecimentos em **TypeScript**, especialmente nos frameworks **NestJS** (Back-end) e **NextJS** (Front-end).
+- 💬 Pergunte-me sobre: `C`, `Python`, `TypeScript`, `Node.js` e `Linux`.
 
 ---
 
@@ -29,14 +29,14 @@
 
 ## 🛠️ Tech Stack
 
+### Linguagens
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=debian" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,ts,py" height="40" alt="Linguagens" />
+</p>
+
+### Frameworks & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,git,github,vscode,debian" height="40" alt="Ferramentas" />
 </p>
